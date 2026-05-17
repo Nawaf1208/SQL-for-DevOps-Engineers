@@ -41,3 +41,9 @@ Additionally, since NoSQL does not adhere to the strict table with columns and r
 ## Practical SQL - Basics
 
 <b><i>For these questions, we will be using the Customers and Orders tables shown below:</i></b>
+
+|  Customer_ID  | Customer_Name | Items_in_Cart | Cash_spent_to_Date |
+|     :---:     |     :---:     |     :---:     |        :---:       |
+|     100204    |   John Smith  |       0       |        20.00       |
+|     100205    |   Jane Smith  |       3       |        40.00       |
+|     100206    |   Bobby Frank |       1       |        100.20      |
