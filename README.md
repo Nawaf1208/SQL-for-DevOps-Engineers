@@ -156,7 +156,7 @@ GROUP BY Customer_Name;
   
 A.
 ```SQL
-SELECT COUNT(*) FROM shawarma_purchases WHERE YEAR(purchased_at) == '2017';
+SELECT COUNT(*) FROM shawarma_purchases WHERE YEAR(purchased_at) = '2017';
 ```
 
 B.
